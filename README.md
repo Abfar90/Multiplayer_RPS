@@ -9,4 +9,5 @@ We used an open source bootstrap theme for the design (https://bootswatch.com/Qu
 * Run the application
 * Register an account, password needs to be 6 characters long (with special character, capital & small letter and a number).
 * Log in to account and navigate to "Game Lobby" under the "rock papre scissors" tab.
-* Create a game, and then join. (need 2 accounts on different browsers to play) 
+* Create a game, and then join. (need 2 accounts on different browsers to play)
+* Page needs to be reloaded to start the game.
