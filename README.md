@@ -4,7 +4,7 @@ In this project, we were tasked with creating a multiplayer game as a single pag
 We used an open source bootstrap theme for the design (https://bootswatch.com/Quartz/).
 
 ## How to run:
-* you create a DB migration: add-migration <MigrationName>
+* Add your own connection string in app.settings
 * update the DB using the database-update command
 * Run the application
 * Register an account, password needs to be 6 characters long (with special character, capital & small letter and a number).
